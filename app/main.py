@@ -18,6 +18,14 @@ user_states = {}
 airdrops = {
     1: {"name": "Abstract Chain Testnet", "link": "https://abstract.deform.cc/?referral=WlP2bFqxLMmj", "instructions": "https://t.me/crepto_mining_news/102"},
     2: {"name": "Bless Network", "link": "https://bless.network/dashboard?ref=WBEYNS", "instructions": "https://youtube.com/shorts/uQ8h18klTA0?si=G3bqOkFAcJeBPoXl"},
+    3: {"name": "Nodepay", "link": "https://app.nodepay.ai/register?ref=qutLumM3bzN3XLB", "instructions": "https://t.me/crepto_mining_guides/574"},
+    4: {"name": "Gradient Network", "link": "https://app.gradient.network/signup?code=Y65HAK", "instructions": "https://t.me/crepto_mining_news/69"},
+    5: {"name": "Grass", "link": "https://app.getgrass.io/register/?referralCode=7XtNWDYksdry3Jg", "instructions": "https://youtu.be/cbLVdogmuno?si=9k_VLnnwbXgeDbno"},
+    6: {"name": "MoonWalk", "link": "https://app.moonwalk.fit/?referral=s3ykh1vx", "instructions": "https://t.me/crepto_mining_news/62"},
+    7: {"name": "Sonic Labs", "link": "https://airdrop.soniclabs.com/?ref=e2rveq", "instructions": "https://t.me/crepto_mining_news/59"},
+    8: {"name": "Farmroll", "link": "https://farmroll.io/farming/farmroll/quests?ref=C43EADA0C5", "instructions": "https://t.me/crepto_mining_news/55"},
+    9: {"name": "Dawn", "link": "https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp", "instructions": "https://t.me/crepto_mining_news/53"},
+    10: {"name": "Node Mining Trick", "link": "https://youtu.be/BI4pExSHtjc?si=bx3Na3JVbjgZUjuQ", "instructions": "https://youtu.be/BI4pExSHtjc?si=bx3Na3JVbjgZUjuQ"}
     # Add other airdrops as required...
 }
 
